@@ -5,3 +5,6 @@ We propose the TO-LF dataset, designed to address challenges in complex occlusio
 The train set and validation set can be downloaded in [Baidu Drive](https://pan.baidu.com/s/14pvZdMePc57S2UBqgAjxZg?pwd=dhuu)
 
 The GT disparity maps for test scenes are AES-encoded, and a Matlab evaluation script  (.p file) is provided for standardized evaluation. ****They will be released soon after the manuscript is accpted****
+
+ We also propose VS-Sub for LF disparity estimation, which upsamples LF feature in the macropixel image (MacPI) domain and employs a viewpoint selection layer (VS Conv) to construct the subpixel cost volume, as illustarated below.
+ 
