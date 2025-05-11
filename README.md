@@ -4,4 +4,4 @@ We propose the TO-LF dataset, designed to address challenges in complex occlusio
 ![Representative samples from the proposed TO-LF dataset.](https://github.com/qingpu1988/LF-Disparity-Estimation-VS-Sub/blob/main/fig1.png)
 The train set and validation set can be downloaded in [Baidu Drive](https://pan.baidu.com/s/14pvZdMePc57S2UBqgAjxZg?pwd=dhuu)
 
-The GT disparity maps for test scenes are AES-encoded, and a Matlab evaluation script  (.p file) is provided on our project website for standardized evaluation. **They will be released soon after the manuscript is accpted**
+The GT disparity maps for test scenes are AES-encoded, and a Matlab evaluation script  (.p file) is provided for standardized evaluation. ****They will be released soon after the manuscript is accpted****
