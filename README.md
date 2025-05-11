@@ -10,6 +10,6 @@ The GT disparity maps for test scenes are AES-encoded, and a Matlab evaluation s
 
  ![ The VS-Sub model pipeline.](https://github.com/qingpu1988/LF-Disparity-Estimation-VS-Sub/blob/main/fig2.png)
  
-****The code and pretrain model can be found in folder "VS-Sub", and the training code will be released soon after the manuscript is accpted****
+****The code and pretrain model can be found in folder "VS-Sub", and the training code will be released soon after the manuscript is accpted**** This code is heavily borrowed from [DistgDisp](https://github.com/YingqianWang/DistgDisp). Many Thanks! 
 
 we also retraied several learning-based methods on our TO-LF dataset. The pretarined models can be found in folder "Pretrained".
